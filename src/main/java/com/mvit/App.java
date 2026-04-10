@@ -9,5 +9,6 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Changed from Hello Word to How are you" );
+	System.out.println("Program 6 is completed");
     }
 }
